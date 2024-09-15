@@ -2,7 +2,7 @@
     "targets": [
         {
             "target_name": "math",
-            "sources": ["add.c"]
+            "sources": ["./src/c/add.c"]
         }
     ]
 }
