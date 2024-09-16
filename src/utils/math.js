@@ -12,3 +12,4 @@ const mathModule = require("bindings")("math.node")
 * @type {CMath}
 */
 export const math = mathModule
+
